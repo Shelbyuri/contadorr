@@ -4,7 +4,7 @@
 }
 body{
     min-height: 100vh;
-    background: linear-gradient(to left, rgb(87, 81, 81), rgb(110, 107, 107));
+    background: linear-gradient(to left, rgb(190, 118, 118), rgb(241, 136, 136));
     display: flex;
     color: aliceblue;
     display: grid;
